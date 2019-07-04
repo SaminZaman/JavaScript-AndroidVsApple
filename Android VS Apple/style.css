@@ -1,0 +1,78 @@
+html {
+    background-color:#cabfb6;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {background-color:white;
+    width: 600px;
+    margin: auto;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    
+  }
+
+p {font-size: 15.5px;}
+
+img {
+    height: 330px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px;
+  
+}
+a:visited {
+    color: black;
+}
+a:link {
+    color: black;
+}
+
+h2 {
+    font-family: 'Proza Libre', sans-serif;
+}
+
+.debate {
+    background-color: #c9793b;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.android {
+    background-color: #a4c93b;
+    padding: 7px 25px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.apple {
+    background-color: #b6bcca;
+    padding: 7px 25px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+
+.debate:hover {
+    border-style: solid;
+    border-color: black;
+}
+
+
+
+
+
+
+
